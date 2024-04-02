@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+*{
+    box-sizing: border-box;
+    margin: 50px;
+    padding: 0;   
+}
+body {
+    background-color: rgba(131, 201, 247, 0.781);
+}
+img {
+    max-width: 200px;
+    min-height: 200px;
+}
+h1 {
+    color:rgba(245, 25, 99, 0.616);
+    font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+h2 {
+    color: rgba(0, 0, 255, 0.432);
+    font-family: "Abril Fatface", serif;
+}
+.meu-botao{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.meu-botao a{
+    background-color: rgba(245, 25, 99, 0.616);
+    border: none; 
+    color: white; 
+    padding: 15px 32px; 
+    text-align: center; 
+    text-decoration: none; 
+    display: inline-block; 
+    font-size: 16px; 
+    margin: 4px 2px; 
+    cursor: pointer; 
+    border-radius: 8px; 
+    font-weight: 600;
+    font-size: medium;
+}
+.meu-botao a:hover {
+    background-color:  rgba(245, 25, 98, 0.322);
+}
+  

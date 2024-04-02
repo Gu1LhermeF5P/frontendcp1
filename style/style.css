@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;   
+}
+body {
+    background-color:#212121;
+}
+h1 {
+    font-family: "Archivo Black", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    margin: 15px 15px 15px 15px;
+    color: white ;
+}
+p {
+    text-align: left;
+    font-weight: 600;
+    font-style: normal;
+    margin: 15px 15px 15px 15px;
+    color: #d4d0d0e5 ;
+}
+a {
+    text-decoration: none;
+}
+img {
+    margin-left: 500px;
+}
+a {
+    color:rgba(245, 25, 99, 0.616);
+    text-transform: capitalize;
+    text-decoration: none;
+    font-weight: 600;
+    margin-left: 15px;
+}
+a:hover{
+    color: rgba(245, 25, 98, 0.322);
+}
+.adm_img{
+    margin-left: 800px;
+}
+.menu {
+    width: 500px;
+    height: 200px;
+}
+
+.menu li a  {
+    color:white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 600;
+    margin: 0 0 0 15px;
+    margin-left: 55px;
+}
+.menu li a:hover{
+    color:rgba(245, 25, 99, 0.616);
+}
+div strong.adm_sub{
+    background-color:rgba(48, 48, 223, 0.219);
+}
+.adm_background {
+    background-color:rgba(48, 48, 223, 0.377);
+    width: 350px;
+    border-radius: 20%;
+    margin-left: 500px;
+}
+.adm_title, 
+.adm_sub {
+    color: rgba(48, 48, 223, 0.781);
+}
+.ads_title {
+    color: #febd3f;  
+}
+.ads_background{
+    background-color:#febe3f38;
+    width: 800px;
+    border-radius: 20%;
+    margin-left: 300px;
+}
+.bcd_title {
+    color: #e2641b;
+}
+.bcd_background{
+    background-color: #e2641b65;
+    width: 400px;
+    border-radius: 20%;
+    margin-left:500px;
+}
+.enc_background{
+    background-color: rgba(255, 255, 0, 0.308);
+    width: 600px;
+    border-radius: 20%;
+    margin-left:400px;
+}
+.enc_title, 
+.enc_sub {
+    color: yellow;
+}
+div strong.enc_sub{
+    background-color: rgba(255, 255, 0, 0.308);
+}
+.enm_backround{
+    background-color: rgba(0, 128, 0, 0.288);
+    width: 600px;
+    border-radius: 20%;
+    margin-left:400px;
+}
+.enm_title,
+.enm_sub {
+    color: green;
+}
+div strong.enm_sub{
+    background-color:  rgba(0, 128, 0, 0.288);
+}
+.enp_background{
+    background-color:rgba(172, 255, 47, 0.295);
+    width: 600px;
+    border-radius: 20%;
+    margin-left:400px;
+}
+.enp_title,
+.enp_sub{
+    color: greenyellow;
+}
+div strong.enp_sub{
+    background-color:rgba(172, 255, 47, 0.295);
+}
+.gti_background{
+    background-color: rgba(127, 255, 212, 0.322);
+    width: 800px;
+    border-radius: 20%;
+    margin-left:300px;
+}
+.gti_title{
+    color: aquamarine;
+}
+.jg_background{
+    background-color: rgba(255, 0, 0, 0.322);
+    width: 550px;
+    border-radius: 20%;
+    margin-left:400px;
+}
+.jg_title {
+    color:red;
+}
+.rdcpt_background  {
+    background-color:  rgba(127, 204, 255, 0.322);
+    width: 500px;
+    border-radius: 20%;
+    margin-left:400px;
+}
+.rdcpt_title {
+    color: rgb(127, 204, 255);
+}
+.sin_background {
+    background-color:  rgba(168, 75, 148, 0.322);
+    width: 500px;
+    border-radius: 20%;
+    margin-left:400px;
+}
+.sin_title,
+.sin_sub{
+    color: rgb(168, 75, 148);
+    text-shadow: 0px 0px 12px;
+}
+div strong.sin_sub{
+    background-color:rgba(168, 75, 148, 0.322) ;
+}
+.sit_background{
+    background-color:rgba(2, 127, 136, 0.322);
+    width: 500px;
+    border-radius: 20%;
+    margin-left:440px;
+}
+.sit_title {
+    color: rgb(2, 127, 136);
+    text-shadow: 0px 0px 12px;
+}
